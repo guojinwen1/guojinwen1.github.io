@@ -1,1 +1,18 @@
+ <!DOCTYPE html> 
+<html lang="zh-cn"> 
+ <head> 
+  <meta charset="utf-8"/> 
+   <title>我的第⼀个⽹⻚</title>
+    </head>
+     <body> 
+      <h1>进入北大的感受</h1> 
+       <p>风景.</p> 
+       <h2>室友</h2>
+        </body> 
+        h1 {     color:red;     font-size:12px; } 
+        body {     background-color:yellow; }
+        p {     color:blue; }
+        </html>
 
+       
+    
